@@ -1,3 +1,4 @@
+Focus: Python code review, refactoring, and unit testing examples prepared for AI code evaluation tasks.
 # adedayo-g2i-samples
 
 Small, focused samples prepared for applications to roles like **AI Software Engineer (Python)** (code review / RLHF-style tasks).
